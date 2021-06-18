@@ -1,0 +1,9 @@
+
+*.sublime-workspace 
+*.sublime-project 
+
+# VICE output file extensions 
+*.obj 
+*.out 
+*.config 
+
