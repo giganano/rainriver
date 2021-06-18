@@ -1,6 +1,7 @@
 
 *.sublime-workspace 
 *.sublime-project 
+*.pyc 
 
 # VICE output file extensions 
 *.obj 
